@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mysql": "^2.13.0",
+    "restify": "^4.3.0",
+    "sequelize": "^3.30.2"
+  },
+  "devDependencies": {
+    "apidoc": "^0.17.5"
+  }
+}
