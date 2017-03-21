@@ -8,6 +8,7 @@
 ### 安装及其他介绍
 >安装apidoc:`npm install apidoc -g`
 >测试地址:http://localhost:3900/getProjectList
+>git: https://github.com/funJia/node_restApi-.git
 
 
 ## Example
@@ -26,3 +27,6 @@
 ```
 
 `apidoc -i example/ -o doc/`
+
+api文档： 
+![api文档](http://ogmy9zsil.bkt.clouddn.com/liblog/apidoc.png "api文档")
